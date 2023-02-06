@@ -1,0 +1,2 @@
+ Hai, I'm Mahendran D.student of UCE Bit Campus Anna University Trichy. Doing case study is the final course and task of Google Data Analytics Career Certification.
+ I chooed this case study and used tool python Jupyter Notebook
